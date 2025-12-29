@@ -1,5 +1,6 @@
 {
   "api": "https://cyber-ninjas.top/api",
+  "baby": "https://cyber-ninjas.top/api",
   "mentionapi": "https://tag.cyber-ninjas.top",
   "rules": "https://rx-rules-api.onrender.com/rules"
 }
