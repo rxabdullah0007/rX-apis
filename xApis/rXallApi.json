@@ -1,6 +1,11 @@
 {
   "api": "https://api.noobs-api.rf.gd/dipto",
-  "baby": "https://api.cyber-ninjas.top",
+  "baby": "https://cyber-ninjas.top/api",
   "mentionapi": "https://tag.cyber-ninjas.top",
-  "rules": "https://rx-rules-api.onrender.com/rules"
+  "rules": "https://rx-rules-api.onrender.com/rules", 
+  "rx": "https://api.cyber-ninjas.top", 
+  "truthdare": "https://true-false-api-9cq3.onrender.com/truthdare",
+  "voice": "https://api.cyber-ninjas.top", 
+  "gpt": "https://jiomobile.shop/", 
+  "edit2": "https://edit-api.vercel.app/nanobanana"
 }
